@@ -7,10 +7,10 @@
 
 **Liên hệ:**
  
- - ⭐ Facebook: [Mai Huy Bảo](https://fb.me/JustOnly.MaiHuyBao.Official)
- - ⭐ Youtube Channel: [Mai Huy Bảo](https://www.youtube.com/channel/maihuybao)
- - ⭐ Email: [maihuybao.contact@gmail.com](mailto:maihuybao.contact@gmail.com)
- - ⭐ Github: [maihuybao](https://github.com/maihuybao)
+ - Facebook: [Mai Huy Bảo](https://fb.me/JustOnly.MaiHuyBao.Official)
+ - Youtube Channel: [Mai Huy Bảo](https://www.youtube.com/channel/maihuybao)
+ - Email: [maihuybao.contact@gmail.com](mailto:maihuybao.contact@gmail.com)
+ - Github: [maihuybao](https://github.com/maihuybao)
 
 **Github Stats**
 
