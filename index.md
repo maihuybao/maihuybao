@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### Chào 👋, tớ là [maihuybao](https://github.com/maihuybao)
 
-You can use the [editor on GitHub](https://github.com/maihuybao/maihuybao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Giới thiệu về bản thân:**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - Tên thật của mình là: **Mai Huy Bảo**
+ - Mình đang là **Developer** của project [VangBanLaNhat](https://github.com/VangBanLaNhat)
 
-### Markdown
+**Liên hệ:**
+ 
+ - Facebook: [Mai Huy Bảo](https://fb.me/JustOnly.MaiHuyBao.Official)
+ - Youtube Channel: [Mai Huy Bảo](https://www.youtube.com/channel/maihuybao)
+ - Email: [maihuybao.contact@gmail.com](mailto:maihuybao.contact@gmail.com)
+ - Github: [maihuybao](https://github.com/maihuybao)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Donate me:**
+ - Momo: [0941563523](https://nhantien.momo.vn/maihuybao)
+ - BIDV: 31310001426548
+ - PayPal: [maihuybao](https://paypal.me/maihuybao)
 
-```markdown
-Syntax highlighted code block
+**Github Stats**
 
-# Header 1
-## Header 2
-### Header 3
+![](https://raw.githubusercontent.com/maihuybao/stats/master/generated/overview.svg)![](https://raw.githubusercontent.com/maihuybao/stats/master/generated/languages.svg)
+![](https://github-readme-stats.vercel.app/api?username=maihuybao&include_all_commits=true&count_private=true&show_icons=true)![](http://github-readme-streak-stats.herokuapp.com?user=maihuybao) 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maihuybao/maihuybao/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
