@@ -3,6 +3,8 @@
 **Giới thiệu về bản thân:**
 
  - Tên thật của mình là: **Mai Huy Bảo**
+ - Mình đang là một học sinh tại trường **THCS Lộc Điền**
+ - Mình hiện đang học tập và sinh sống tại **Bình Phước**
  - Mình đang là **Developer** của project [VangBanLaNhat](https://github.com/VangBanLaNhat)
 
 **Liên hệ:**
@@ -21,4 +23,3 @@
 
 ![](https://raw.githubusercontent.com/maihuybao/stats/master/generated/overview.svg)![](https://raw.githubusercontent.com/maihuybao/stats/master/generated/languages.svg)
 ![](https://github-readme-stats.vercel.app/api?username=maihuybao&include_all_commits=true&count_private=true&show_icons=true)![](http://github-readme-streak-stats.herokuapp.com?user=maihuybao) 
-
