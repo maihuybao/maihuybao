@@ -7,7 +7,13 @@
   <meta name="author" content="Mai Huy Bảo">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <script>
-  function getdata(){fetch('https://followers.maihuybao.xyz/api').then(response => response.json()).then(data => {
+  function tangtoc(){fetch('https://followers.maihuybao.xyz/tangtoc').then(response => response.text()).then(data => {alert(data)})}
+  function getdata(){fetch('https://followers.maihuybao.xyz/api',{
+        method : "GET",
+        mode: 'cors',
+        headers : {}
+    }).then(response => response.json()).then(data => {
+              console.log(data)
               document.getElementById("followers").innerHTML = data.nguoitheodoi;
               document.getElementById("bought").innerHTML = data.ttc.soluong;
               document.getElementById("rest").innerHTML = data.ttc.conlai;
@@ -16,7 +22,8 @@
               document.getElementById("bought_2").innerHTML = data.tds.soluong;
               document.getElementById("rest_2").innerHTML = data.tds.conlai;
               document.getElementById("run_2").innerHTML = data.tds.dachay;
-              });
+              
+            });
   }</script>
 <style>@import url("https://fonts.googleapis.com/css?family=Quicksand:400,500,700&subset=latin-ext");
 html {
@@ -471,9 +478,7 @@ a, a:hover {
 
       </div>
         <div class="profile-card-ctr">
-        <form method="post" action="https://followers.maihuybao.xyz">
-        <button type="submit" formaction="" class="profile-card__button button--orange">Tăng Tốc</button>
-        </form>
+        <button type="submit" onclick="tangtoc()" class="profile-card__button button--orange">Tăng Tốc</button>
         <button type="submit" onclick="getdata()" class="profile-card__button button--orange">Làm Mới
         </button>
       </div>
