@@ -205,6 +205,15 @@
                                                             className: "font-icon icon-instagram1"
                                                         })
                                                     })
+                                                }), Object(d.jsx)("li", {
+                                                    children: Object(d.jsx)("a", {
+                                                        href: "https://github.com/maihuybao/",
+                                                        title: "Github",
+                                                        target: "_blank",
+                                                        children: Object(d.jsx)("i", {
+                                                            className: "font-icon icon-github"
+                                                        })
+                                                    })
                                                 })]
                                             })]
                                         })]
