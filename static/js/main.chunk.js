@@ -117,7 +117,7 @@
                                                 logo: "momo",
                                                 name: "V\xed Momo",
                                                 ctk: "Mai Huy Bảo",
-                                                stk: "0941563523"
+                                                stk: "0866064053"
                                             }, {
                                                 logo: "tsr",
                                                 name: "TheSieuRe",
@@ -230,7 +230,7 @@
                                                 children: [Object(d.jsx)("span", {
                                                     className: "overhead",
                                                     children: "Số điện thoại"
-                                                }), "+84941563523"]
+                                                }), "+84866064053"]
                                             })]
                                         }), Object(d.jsxs)("ul", {
                                             className: "header__contact",
