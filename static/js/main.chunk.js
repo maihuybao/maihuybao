@@ -108,36 +108,28 @@
                                         return e.next = 2, fetch("https://api.ipify.org?format=json").then((function (e) {
                                             return e.json()
                                         })).then((function (e) {
-                                            b(e.ip), n(!1), p([{
-                                                logo: "bidv",
-                                                name: "BIDV",
+                                            b(e.ip), n(!1), p([
+                                                {
+                                                logo: "mbbank",
+                                                name: "MBBank",
                                                 ctk: "Mai Huy Bảo",
-                                                stk: "31310001426548"
+                                                stk: "0866064053"
+                                            }, 
+                                            {
+                                                logo: "mbbank",
+                                                name: "MBBank",
+                                                ctk: "Mai Huy Bảo",
+                                                stk: "272282292"
                                             }, {
                                                 logo: "momo",
                                                 name: "V\xed Momo",
                                                 ctk: "Mai Huy Bảo",
                                                 stk: "0866064053"
-                                            }, {
-                                                logo: "tsr",
-                                                name: "TheSieuRe",
-                                                ctk: "Mai Huy Bảo",
-                                                stk: "maihuybao"
                                             },{
                                                 logo: "paypal",
                                                 name: "PayPal",
                                                 ctk: "Mai Huy Bảo",
                                                 stk: "maihuybao.booking@gmail.com"
-                                            },{
-                                                logo: "btc",
-                                                name: "Bitcoin",
-                                                ctk: "Mai Huy Bảo",
-                                                stk: "bc1qqms4a5ppfdmn5fypsqecsz84j2fqjzc6uejsd0"
-                                            },{
-                                                logo: "eth",
-                                                name: "Ethereum",
-                                                ctk: "Mai Huy Bảo",
-                                                stk: "0x929Aba084eee699D5b50A766E36d501dfA25d9ea"
                                             }])
                                         }));
                                     case 2:
