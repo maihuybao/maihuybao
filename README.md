@@ -14,11 +14,6 @@
  - Email: [maihuybao.contact@gmail.com](mailto:maihuybao.contact@gmail.com)
  - Github: [maihuybao](https://github.com/maihuybao)
 
-**Donate me:**
- - Momo: [0941563523](https://nhantien.momo.vn/maihuybao)
- - BIDV: 31310001426548
- - PayPal: [maihuybao](https://paypal.me/maihuybao)
-
 **Github Stats**
 
 ![](https://raw.githubusercontent.com/maihuybao/stats/master/generated/overview.svg)![](https://raw.githubusercontent.com/maihuybao/stats/master/generated/languages.svg)
