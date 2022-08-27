@@ -1,6 +1,6 @@
 ### Chào 👋, tớ là [maihuybao](https://github.com/maihuybao)
 
-**Giới thiệu về bản thân:**Cancel changes
+**Giới thiệu về bản thân:**
 
  - Tên thật của mình là: **Mai Huy Bảo**
  - Mình hiện đang học tập và sinh sống tại **Bình Phước**
