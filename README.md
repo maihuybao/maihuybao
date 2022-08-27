@@ -1,9 +1,8 @@
 ### Chào 👋, tớ là [maihuybao](https://github.com/maihuybao)
 
-**Giới thiệu về bản thân:**
+**Giới thiệu về bản thân:**Cancel changes
 
  - Tên thật của mình là: **Mai Huy Bảo**
- - Mình đang là một học sinh tại trường **THCS Lộc Điền**
  - Mình hiện đang học tập và sinh sống tại **Bình Phước**
  - Mình đang là **Developer** của project [VangBanLaNhat](https://github.com/VangBanLaNhat)
 
