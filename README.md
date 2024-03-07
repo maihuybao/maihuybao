@@ -10,7 +10,8 @@
 
 **Liên hệ:**
  
- - Facebook: [Mai Huy Bảo](https://fb.me/MaiHuyBao.Contact)
+ - Facebook: [Mai Huy Bảo](https://fb.me/MaiHuyBao.Developer)
+ - Telegram: [Mờ Hờ Bờ](https://t.me/Mo_Ho_Bo)
  - Youtube Channel: [Mai Huy Bảo](https://www.youtube.com/channel/maihuybao)
  - Email: [maihuybao.contact@gmail.com](mailto:maihuybao.contact@gmail.com)
  - Github: [maihuybao](https://github.com/maihuybao)
