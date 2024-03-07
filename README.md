@@ -4,11 +4,13 @@
 
  - Tên thật của mình là: **Mai Huy Bảo**
  - Mình hiện đang học tập và sinh sống tại **Bình Phước**
- - Mình đang là **Developer** của project [VangBanLaNhat](https://github.com/VangBanLaNhat)
+ - Mình đang là Freelancer hoạt động tự do
+ - MERN Stack
+ - DevOps
 
 **Liên hệ:**
  
- - Facebook: [Mai Huy Bảo](https://fb.me/JustOnly.MaiHuyBao.Official)
+ - Facebook: [Mai Huy Bảo](https://fb.me/MaiHuyBao.Contact)
  - Youtube Channel: [Mai Huy Bảo](https://www.youtube.com/channel/maihuybao)
  - Email: [maihuybao.contact@gmail.com](mailto:maihuybao.contact@gmail.com)
  - Github: [maihuybao](https://github.com/maihuybao)
