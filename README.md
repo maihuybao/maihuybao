@@ -8,6 +8,11 @@
  - MERN Stack
  - DevOps
 
+**Job:**
+ - Automation Software
+ - DevOps
+ - Web Development (MERN Stack)
+
 **Liên hệ:**
  
  - Facebook: [Mai Huy Bảo](https://fb.me/MaiHuyBao.Freelancer)
@@ -15,8 +20,3 @@
  - Youtube Channel: [Mai Huy Bảo](https://www.youtube.com/channel/maihuybao)
  - Email: [contact@maihuybao.dev](mailto:contact@maihuybao.dev)
  - Github: [maihuybao](https://github.com/maihuybao)
-
-**Github Stats**
-
-![](https://github-readme-stats.vercel.app/api?username=maihuybao&include_all_commits=true&count_private=true&show_icons=true)
-
