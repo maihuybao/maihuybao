@@ -10,14 +10,13 @@
 
 **Liên hệ:**
  
- - Facebook: [Mai Huy Bảo](https://fb.me/MaiHuyBao.Developer)
+ - Facebook: [Mai Huy Bảo](https://fb.me/MaiHuyBao.Freelancer)
  - Telegram: [Mờ Hờ Bờ](https://t.me/Mo_Ho_Bo)
  - Youtube Channel: [Mai Huy Bảo](https://www.youtube.com/channel/maihuybao)
- - Email: [maihuybao.contact@gmail.com](mailto:maihuybao.contact@gmail.com)
+ - Email: [contact@maihuybao.dev](mailto:contact@maihuybao.dev)
  - Github: [maihuybao](https://github.com/maihuybao)
 
 **Github Stats**
 
-![](https://raw.githubusercontent.com/maihuybao/stats/master/generated/overview.svg)![](https://raw.githubusercontent.com/maihuybao/stats/master/generated/languages.svg)
-![](https://github-readme-stats.vercel.app/api?username=maihuybao&include_all_commits=true&count_private=true&show_icons=true)![](http://github-readme-streak-stats.herokuapp.com?user=maihuybao) 
+![](https://github-readme-stats.vercel.app/api?username=maihuybao&include_all_commits=true&count_private=true&show_icons=true)
 
