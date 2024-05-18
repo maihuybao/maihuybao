@@ -5,8 +5,6 @@
  - Tên thật của mình là: **Mai Huy Bảo**
  - Mình hiện đang học tập và sinh sống tại **Bình Phước**
  - Mình đang là Freelancer hoạt động tự do
- - MERN Stack
- - DevOps
 
 **Job:**
  - Automation Software
