@@ -1,6 +1,11 @@
-<h2 align="left">Hi 👋! My name is meomatcang and I'm a student, from Vietnam</h2>
+<h1 align="center">Hi 👋, I'm Meo Mat Cang</h1>
+<h3 align="center">A student passionate about programming from Vietnam</h3>
 
-###
+- 🌱 I’m currently learning **Laravel, MERN Stack**
+
+- ⚡ Fun fact **i live in prison**
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maihuybao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -8,11 +13,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maihuybao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/73270862"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -36,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <a href="https://www.facebook.com/MaiHuyBao.Developer" target="_blank">
@@ -53,16 +58,16 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maihuybao/maihuybao/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/maihuybao/count.svg?"  />
 </div>
 
-###
+
